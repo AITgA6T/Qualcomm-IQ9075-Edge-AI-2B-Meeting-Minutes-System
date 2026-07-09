@@ -15,7 +15,7 @@
 
 ## Hardware
 
-- **Platform**: IQ-9075 EVK
+- **Platform**: [Qualcomm IQ-9075 EVK](https://www.qualcomm.com/developer/hardware/qualcomm-iq-9075-evaluation-kit-evk)
 - **Microphone**: Directional Microphone * 3
 
 ## Software & Toolkit
